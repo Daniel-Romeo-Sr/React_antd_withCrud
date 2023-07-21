@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.container{
+    width: 50%;
+    position: absolute;
+    left: 300px;
+}
+.container > h1 {
+    margin:20px;
+    /* border-bottom: 2px solid black; */
+    text-decoration: underline;
+}
+.container > Form{
+    margin: 0px 60px 0px;
+border: 1px solid black;
+padding: 40px 120px 0px 0px;
+}

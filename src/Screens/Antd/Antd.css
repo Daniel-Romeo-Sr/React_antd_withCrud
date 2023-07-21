@@ -1,0 +1,12 @@
+.container{
+    margin-top: 10px;
+    background-image: linear-gradient(to right top, #4d97c6, #7784c0, #9a6fa7, #ad5d80, #aa5454);
+    margin: 0px 50px;
+}
+.ant-table-container > .ant-table-content > {
+    background-image: linear-gradient(to right top, #4d97c6, #7784c0, #9a6fa7, #ad5d80, #aa5454);
+}
+.container > Button{
+    margin: 15px 0px 20px;
+
+}
